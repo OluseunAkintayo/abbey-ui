@@ -43,7 +43,7 @@ const Header = () => {
     navigate("/auth/login");
   }
 
-  const profile = () => navigate("/profile");
+  const profile = () => navigate("/");
 
   return (
     <header>
